@@ -1,3 +1,3 @@
-import weapons from './weaponData.mjs';
+import weapons from './weaponData.mjs'
 
-console.log(weapons.sting);
+console.log(weapons.sting)
