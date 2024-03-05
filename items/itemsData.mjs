@@ -3,11 +3,14 @@ export default {
     name: 'mana potion',
     type: 'potion',
     effect: [
-      { sustinaceBuff: 50 },
+      { subsistenceBuff: 50 },
     ],
     appearance: {
       color: 'red',
       style: 'swirling',
     },
   },
+  goldCoins: (num) => {
+    console.log(num)
+  }
 }
