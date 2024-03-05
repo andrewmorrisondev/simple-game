@@ -1,0 +1,12 @@
+{
+  "name": "simple-game",
+  "version": "1.0.0",
+  "description": "Welcome to Simple-Game, a thrilling text-based role-playing game that combines the depth of D&D-like stats with the dynamic battle mechanics of Super Mario Brothers: Superstar Saga. Dive into a world where your strategic choices, character development, and battle tactics determine your success.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
