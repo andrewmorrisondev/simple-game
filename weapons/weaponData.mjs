@@ -17,4 +17,22 @@ export default {
       style: 'glowing',
     },
   },
+  anduril: {
+    name: 'Andúril',
+    type: 'Long Sword',
+    baseDamage: 1000,
+    damageType: {
+      physical: 1000,
+      elemental: 1000,
+    },
+    effect: [
+      // bonusCrit(orc, 10)
+      'Wraith bonusCrit 30',
+    ],
+    level: 'legendary',
+    appearance: {
+      color: 'silver',
+      style: 'glowing',
+    },
+  },
 }
